@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: "Ballföðr's Hall (aka JBall's Site)" # the website title (if blank, full name will be used instead)
 first_name: Jon
 middle_name:
 last_name: Ball
@@ -87,8 +87,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "Ballföðr's Hall (aka JBall's Blog)" # blog_name will be displayed in your blog page
-blog_description: Academic overflow and intentional curation spanning English literature, American cinema & TV, Arabic poetry, Scandinavian black metal, and much else.
+blog_name: All Things Ball # blog_name will be displayed in your blog page
+blog_description: Academic overflow and intentional curation spanning my interests in English literature, world religions and history, American cinema & TV, Arabic poetry, Scandinavian black metal, and much else.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
