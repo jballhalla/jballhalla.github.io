@@ -431,7 +431,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
+    },{id: "news-i-finally-made-a-personal-blog-intention-is-to-update-regularly-if-not-daily-evergreen-tree",
+          title: 'I finally made a personal blog! Intention is to update regularly, if not...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
