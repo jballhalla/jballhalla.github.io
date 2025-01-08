@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Thinking through rhizome, root, and arbor.
+subtitle: Thinking through rhizome, root, and arbor. 🌲
 
 profile:
   align: right
