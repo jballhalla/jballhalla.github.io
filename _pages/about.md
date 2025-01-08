@@ -20,4 +20,5 @@ social: true # includes social icons at the bottom of the page
 Welcome! I'm Jon Ball (not to be confused with John Ball, my father, nor the 14th-century English priest of the same name).
 
 About me: 
+
 PhD Candidate in Education Data Science, Stanford GSE. Prior degrees from NYU and Williams College. A Buffalo-born wanderer and wonderer, only son of a teacher and a bookkeeper, and an incurable dilettante at heart. Currently, my primary research interest lies in describing the effects of Indonesia's 2019 Open Access academic publishing mandate, while my broader interests have to do with multilingual media and criticism.
