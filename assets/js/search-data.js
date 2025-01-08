@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-the-philological-specificity-of-things-for-gaza",
+            },{id: "post-through-with-euphemism",
+      
+        title: "Through with Euphemism",
+      
+      description: "George Orwell criticized pseudocratic language. We should too.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Through-with-Euphemism/";
+        
+      },
+    },{id: "post-the-philological-specificity-of-things-for-gaza",
       
         title: "The Philological Specificity of Things (For Gaza)",
       
