@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-through-with-euphemism",
+            },{id: "post-the-philological-specificity-of-things-for-gaza",
       
-        title: "Through with Euphemism",
+        title: "The Philological Specificity of Things (For Gaza)",
       
-      description: "George Orwell lampooned pseudocracy. We should too.",
+      description: "A meditation on doubletalk written in a covid-induced fever dream.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Through-with-Euphemism/";
+          window.location.href = "/blog/2025/The-Philological-Specificity-of-Things-(For-Gaza)/";
         
       },
     },{id: "news-i-finally-made-a-personal-blog-intention-is-to-update-regularly-if-not-daily-evergreen-tree",
