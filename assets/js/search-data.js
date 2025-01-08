@@ -90,6 +90,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/Through-with-Euphemism/";
         
       },
+    },{id: "post-the-philological-specificity-of-things-for-gaza",
+      
+        title: "The Philological Specificity of Things (For Gaza)",
+      
+      description: "A meditation on doubletalk written in a covid-induced fever dream.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/The-Philological-Specificity-of-Things-(For-Gaza)/";
+        
+      },
     },{id: "news-i-finally-made-a-personal-blog-intention-is-to-update-regularly-if-not-daily-evergreen-tree",
           title: 'I finally made a personal blog! Intention is to update regularly, if not...',
           description: "",
