@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finally made a personal blog! Intention is to update regularly, if not daily. :evergreen_tree:
+I finally made a personal blog! My intention is to update regularly, if not daily. :evergreen_tree:
