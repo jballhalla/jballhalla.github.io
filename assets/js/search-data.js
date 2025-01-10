@@ -105,8 +105,8 @@ ninja.data = [{
           window.location.href = "/blog/2025/The-Philological-Specificity-of-Things-(For-Gaza)/";
         
       },
-    },{id: "news-i-finally-made-a-personal-blog-intention-is-to-update-regularly-if-not-daily-evergreen-tree",
-          title: 'I finally made a personal blog! Intention is to update regularly, if not...',
+    },{id: "news-i-finally-made-a-personal-blog-my-intention-is-to-update-regularly-if-not-daily-evergreen-tree",
+          title: 'I finally made a personal blog! My intention is to update regularly, if...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
