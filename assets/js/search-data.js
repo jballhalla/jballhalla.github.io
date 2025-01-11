@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-acts-of-fact-and-fetish",
-      
-        title: "Acts of Fact and Fetish",
-      
-      description: "After reading Latour&#39;s &quot;Cult of the Factish Gods,&quot; I think the truth is that we fear what we believe.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Acts-of-Fact-and-Fetish/";
-        
-      },
-    },{id: "post-why-the-fetish",
+            },{id: "post-why-the-fetish",
       
         title: "Why the fetish?",
       
