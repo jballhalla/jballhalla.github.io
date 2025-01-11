@@ -83,6 +83,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/Acts-of-Fact-and-Fetish/";
         
       },
+    },{id: "post-why-the-fetish",
+      
+        title: "Why the fetish?",
+      
+      description: "Latour&#39;s «faitiche» (&quot;factish&quot;) is normanesque trickery, and his &quot;iconoclash&quot; is an artsy rehash of Sombart&#39;s creative destruction.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Why-the-fetish/";
+        
+      },
     },{id: "post-through-with-euphemism",
       
         title: "Through with Euphemism",
