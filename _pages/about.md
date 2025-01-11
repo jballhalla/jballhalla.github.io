@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm Jon Ball (not to be confused with John Ball, my father, nor the 14th-century English priest of the same name, nor the protagonist of David Jones's 1937 "writing" *In Parenthesis*).
+Welcome! I'm Jon Ball (not to be confused with John Ball, my father, nor the 14th-century English priest of the same name, nor the protagonist of David Jones's 1937 book *In Parenthesis*).
 
 About me: 
 
