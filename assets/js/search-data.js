@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-acts-of-fact-and-fetish",
+            },{id: "post-from-east-to-west-the-stars",
+      
+        title: "From East to West, the Stars",
+      
+      description: "Two poems I encountered toward the beginning and end of my formal education make for a humbling arc.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/From-East-to-West,-the-Stars/";
+        
+      },
+    },{id: "post-acts-of-fact-and-fetish",
       
         title: "Acts of Fact and Fetish",
       
