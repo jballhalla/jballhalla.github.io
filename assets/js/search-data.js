@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-from-east-to-west-the-stars",
+        },{id: "post-reflections-on-tarkovsky-39-s-stalker",
+      
+        title: "Reflections on Tarkovsky&#39;s Stalker",
+      
+      description: "Why not face our nature? This 1979 masterpiece was shaped by the director&#39;s struggle with soviet censorship, from mere science fiction or religious allegory into something truly universal.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Reflections-on-Tarkovsky's-Stalker/";
+        
+      },
+    },{id: "post-from-east-to-west-the-stars",
       
         title: "From East to West, the Stars",
       
