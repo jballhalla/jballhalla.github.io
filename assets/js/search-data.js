@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-truth-after-tsvetaeva",
-      
-        title: "Truth after Tsvetaeva",
-      
-      description: "Having reflected on Tarkovsky&#39;s later film, I find a poem by Marina Tsvetaeva from before the revolution to be somewhat similar in nature.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Truth-after-Tsvetaeva/";
-        
-      },
-    },{id: "post-reflections-on-tarkovsky-39-s-stalker",
+        },{id: "post-reflections-on-tarkovsky-39-s-stalker",
       
         title: "Reflections on Tarkovsky&#39;s Stalker",
       
