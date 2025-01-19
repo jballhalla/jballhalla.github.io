@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-what-comes-after-irony",
-      
-        title: "What comes after irony?",
-      
-      description: "Rorty&#39;s iconoclastic &quot;ironist&quot; runs into trouble when they want to create something people can act on.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/What-comes-after-irony/";
-        
-      },
-    },{id: "post-truth-after-tsvetaeva",
+        },{id: "post-truth-after-tsvetaeva",
       
         title: "Truth after Tsvetaeva",
       
