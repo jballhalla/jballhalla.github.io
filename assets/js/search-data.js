@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-space-vs-place",
-      
-        title: "Space vs. Place",
-      
-      description: "The space/place dichotomy is inverted by looking at it from East or West.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Space-vs.-Place/";
-        
-      },
-    },{id: "post-what-comes-after-irony",
+        },{id: "post-what-comes-after-irony",
       
         title: "What comes after irony?",
       
