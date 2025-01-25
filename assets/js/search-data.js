@@ -62,17 +62,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/An-ode-to-soup/";
         
       },
-    },{id: "post-the-business-of-firming-or-forming",
-      
-        title: "The business of firming, or forming?",
-      
-      description: "Some intellectuals are about affirming and confirming, others informing and conforming. I favor the latter, which is a project of using language to create a shared (conformal) experience.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/The-business-of-firming,-or-forming/";
-        
-      },
     },{id: "post-space-vs-place",
       
         title: "Space vs. Place",
