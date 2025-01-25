@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-the-business-of-firming-or-forming",
+        },{id: "post-an-ode-to-soup",
+      
+        title: "An ode to soup",
+      
+      description: "Soup-making is alchemy. These are my 10 favorite soups I&#39;ve made so far this winter.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/An-ode-to-soup/";
+        
+      },
+    },{id: "post-the-business-of-firming-or-forming",
       
         title: "The business of firming, or forming?",
       
