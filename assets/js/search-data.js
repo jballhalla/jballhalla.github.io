@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-an-ode-to-soup",
+        },{id: "post-10-black-metal-albums",
+      
+        title: "10 Black Metal Albums",
+      
+      description: "Resonant ripples of the second wave, here is a curated list of 10 extreme and experimental black metal albums I love. Yes, love.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/10-Black-Metal-Albums/";
+        
+      },
+    },{id: "post-an-ode-to-soup",
       
         title: "An ode to soup",
       
