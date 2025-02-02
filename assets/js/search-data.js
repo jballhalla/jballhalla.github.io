@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-10-avante-garde-black-metal-albums",
-      
-        title: "10+ avante-garde black metal albums",
-      
-      description: "Resonant ripples of the second wave, here is a list of 10+ aesthetically experimental black metal albums (and one demo) I love. Yes, love.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/10+-avante-garde-black-metal-albums/";
-        
-      },
-    },{id: "post-an-ode-to-soup",
+        },{id: "post-an-ode-to-soup",
       
         title: "An ode to soup",
       
