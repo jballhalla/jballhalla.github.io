@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm Jon Ball (not to be confused with John Ball, my father, nor the English priest of the same name, nor the protagonist of *In Parenthesis*).
+Welcome! I'm Jon Ball (not to be confused with John Ball, my father, nor the English priest of the same name).
 
 About me: 
 
