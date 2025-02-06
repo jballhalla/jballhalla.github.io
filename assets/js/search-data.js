@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-10-avante-garde-black-metal-albums",
+        },{id: "post-notes-from-quot-gaza-our-oracle-ruin-quot",
+      
+        title: "Notes from &quot;Gaza, Our Oracle-Ruin&quot;",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Notes-from-Gaza,-Our-Oracle-Ruin/";
+        
+      },
+    },{id: "post-10-avante-garde-black-metal-albums",
       
         title: "10+ avante-garde black metal albums",
       
