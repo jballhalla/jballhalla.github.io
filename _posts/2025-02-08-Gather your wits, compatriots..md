@@ -14,7 +14,7 @@ America, O surrogate<br>
 whose shame permits, and Justice quits.<br><br>
 Gather your wits, compatriots.<br>
 From the river, a counterfeit,<br>
-cruel lawgiver, charges remits.<br>
+cruel lawgiver, will charge remit.<br>
 The pact commits; follow its writs.<br><br>
 Gather your wits, compatriots.<br>
 Progress has stalled, walled bit by bit.<br>
