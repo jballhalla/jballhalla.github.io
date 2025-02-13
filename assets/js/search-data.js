@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gather-your-wits-compatriots",
+        },{id: "post-on-harvey-39-s-justice-nature-amp-the-geography-of-difference",
+      
+        title: "On Harvey&#39;s Justice, Nature &amp; the Geography of Difference",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-On-Harvey's-Justice,-Nature-&-the-Geography-of-Difference/";
+        
+      },
+    },{id: "post-gather-your-wits-compatriots",
       
         title: "Gather your wits, compatriots.",
       
