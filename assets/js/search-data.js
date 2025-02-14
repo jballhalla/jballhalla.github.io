@@ -51,18 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-staying-with-the-grain",
-      
-        title: "Staying with the Grain",
-      
-      description: "For Margaret Lanterman (portrayed by Catherine E. Coulson), an American sibyl.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Staying-with-the-Grain/";
-        
-      },
-    },{id: "post-on-harvey-39-s-justice-nature-amp-the-geography-of-difference",
+        },{id: "post-on-harvey-39-s-justice-nature-amp-the-geography-of-difference",
       
         title: "On Harvey&#39;s Justice, Nature &amp; the Geography of Difference",
       
