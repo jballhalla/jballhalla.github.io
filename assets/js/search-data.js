@@ -84,17 +84,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/Gather-your-wits,-compatriots/";
         
       },
-    },{id: "post-gather-your-wits-compatriots",
-      
-        title: "Gather your wits, compatriots.",
-      
-      description: "A poem and a call to attention, because lament means nothing.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Gather-your-wits,-compatriots/";
-        
-      },
     },{id: "post-notes-from-quot-gaza-our-oracle-ruin-quot",
       
         title: "Notes from &quot;Gaza, Our Oracle-Ruin&quot;",
