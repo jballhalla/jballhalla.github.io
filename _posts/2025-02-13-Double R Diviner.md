@@ -9,13 +9,8 @@ categories: poems
 ---
 <br>
 A Log Lady tends each stump in memory’s grove.<br>
-
 Her narrow hands, stained cedar red, cast lots by phone.<br>
-
 With burnt wood beside her, she awaits the Fates' calls.<br>
-
 Young Cassandra floats in, and old Sibyl reads palms.<br>
-
 Paradise grows from gossip’s seed and prophecy.<br>
-
 The seeress seeks out coffee, pie, and company.
