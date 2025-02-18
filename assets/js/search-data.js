@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-double-r-diviner",
+        },{id: "post-fireseed",
+      
+        title: "Fireseed",
+      
+      description: "An ode to adaptation.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Fireseed/";
+        
+      },
+    },{id: "post-double-r-diviner",
       
         title: "Double R Diviner",
       
