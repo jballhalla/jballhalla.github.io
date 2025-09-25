@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-fireseed",
+        },{id: "post-milan-kundera-39-s-essay-quot-the-novel-and-europe-quot",
+      
+        title: "Milan kundera&#39;s essay &quot;the novel and europe&quot;",
+      
+      description: "A questioning of the death of questioning in novels, in dialogue with Heidegger.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Milan-Kundera's-Essay-The-Novel-and-Europe/";
+        
+      },
+    },{id: "post-fireseed",
       
         title: "Fireseed",
       
